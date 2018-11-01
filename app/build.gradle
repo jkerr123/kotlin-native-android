@@ -30,5 +30,5 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
-    implementation files('/Users/jamie.kerr/native/common2/build/libs/common2-jvm-0.0.1.jar')
+    implementation files('/Users/chris.flint/FlintMakes/kotlin-native-lab-day/common2/build/libs/common2-jvm-0.0.1.jar')
 }
